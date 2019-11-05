@@ -9,4 +9,14 @@ for each topic.
 Chapter 11 Inheritance and Polymorphism
 ---------------------------------------
 
+Be able to draw diagrams and write basic codes using Superclasses and subclasses.
 
+Understand the toString method
+
+using overrides with methods from other classes.
+
+How to use Polymorphism
+
+ How to organize classes to establish what should be the super class.
+
+ Understand casting.
