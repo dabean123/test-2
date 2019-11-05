@@ -1,0 +1,12 @@
+Review two
+----------
+----------
+
+Below will be each of the items to review for the text. I will quickly jot down each topic and try to fill in needed information
+for each topic.
+
+
+Chapter 11 Inheritance and Polymorphism
+---------------------------------------
+
+
