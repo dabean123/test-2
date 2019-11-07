@@ -20,3 +20,44 @@ How to use Polymorphism
  How to organize classes to establish what should be the super class.
 
  Understand casting.
+
+working with  the equals () method.
+
+***Comparators*** <- Super important
+
+Chapter 17 Binary IO
+--------------------
+Know how to modify specific bytes
+
+
+
+
+Chapter 19 generics
+---------------------
+know how to make a comparable data type and how to use it
+
+importance of wildcards and why they are needed
+
+Chapter 20
+--------------------------------
+Be comfortable with array lists
+
+Know sets, link lists, and maps
+
+know when and why to use one based on scenario
+
+
+Sample test information
+-----------------------
+
+Pay attention to whether it is asking for class or method or complete program
+
+know the different types of classes and how they interact
+
+CanBe**insert**() classes are used as interfaces
+
+be ready to write a class diagram
+
+know when and how to use this.variable when using multiple classes
+
+know how to cast correctly and what class to cast objects to
